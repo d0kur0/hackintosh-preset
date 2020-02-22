@@ -1,4 +1,4 @@
-# Ryzentosh (Hackintosh with Ryzen)
+# Ryzentosh (Hackintosh with Ryzen) OpenCore 0.5.5
 
 My hardware:
 
