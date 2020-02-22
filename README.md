@@ -14,3 +14,8 @@ My hardware:
 Sound and Microphone work
 FaceTime and another Work
 
+## Geekbench
+
+![Main Page](https://github.com/d0kur0/hackintosh-preset/blob/master/screenshots/geekbench.png?raw=true)
+![Result of CPU](https://github.com/d0kur0/hackintosh-preset/blob/master/screenshots/geekbench_result_cpu.png?raw=true)
+![Result of GPU](https://github.com/d0kur0/hackintosh-preset/blob/master/screenshots/geekbench_result_gpu.png?raw=true)
