@@ -10,9 +10,11 @@ My hardware:
 - Memory: 32GB (2x16GB) AMD Radeon R9 Gamer Series
 
 
-3D Acceleration work
-Sound and Microphone work
-FaceTime and another Work
+Base info:
+* 3D Acceleration work
+* Sound and Microphone work
+* FaceTime and another work
+
 
 ## Geekbench
 
