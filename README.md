@@ -1,5 +1,7 @@
 # Ryzentosh (Hackintosh with Ryzen) OpenCore 0.5.5
 
+![About Mac](https://github.com/d0kur0/hackintosh-preset/blob/master/screenshots/about_mac.png?raw=true)
+
 My hardware:
 
 - Processor: AMD Ryzen 2600x
