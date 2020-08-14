@@ -1,8 +1,7 @@
 # Ryzentosh (Hackintosh with Ryzen) OpenCore 0.5.5
 ## Catalina 10.15.6
 
-Create USB by this guide (I made on Windows)https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
-Create USB by ![this guide]() (I made on Windows)https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
+Create USB by [this guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) (I made on Windows)
 
 ![About Mac](https://github.com/d0kur0/hackintosh-preset/blob/master/screenshots/about_mac.png?raw=true)
 
