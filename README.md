@@ -1,4 +1,5 @@
 # Ryzentosh (Hackintosh with Ryzen) OpenCore 0.5.5
+## Catalina 10.15.6
 
 ![About Mac](https://github.com/d0kur0/hackintosh-preset/blob/master/screenshots/about_mac.png?raw=true)
 
